@@ -1,0 +1,1 @@
+Simple tool for inserting binary data in files.
