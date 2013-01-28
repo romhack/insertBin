@@ -1,6 +1,9 @@
 /*
-Insert binary file into another file at given offset
 
+Insert binary file into another file at given offset
+Griever.magicteam.net
+
+Usage:
 insertBin patch.bin target.bin [-o offset][-s size] [-f fillValue]
 
 offset - default 0
